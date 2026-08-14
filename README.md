@@ -14,11 +14,11 @@ Czech dev in progress. Not everything here is vibecoded, some of it I actually w
 </p>
 
 <p align="center">
-Public repos are tools, built because I needed them. Client work lives private, under my studio, <a href="https://horakbrand.cz">Horák</a>.
+Public repos are tools, built because I needed them. Client work lives private, under my studio, <a href="https://www.horakbrand.cz">Horák</a>.
 </p>
 
 <p align="center">
-🔴 <a href="https://horakbrand.cz">horakbrand.cz</a>
+🔴 <a href="https://www.horakbrand.cz">horakbrand.cz</a>
 </p>
 
 <p align="center"><sub>I'm way forward to your brand.</sub></p>
